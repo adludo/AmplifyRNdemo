@@ -13,10 +13,10 @@ import {
   Text,
 } from 'react-native';
 
-import Amplify from 'aws-amplify';
-import config from './aws-exports';
+//import Amplify from 'aws-amplify';
+//import config from './aws-exports';
 
-Amplify.configure(config)
+//Amplify.configure(config)
 
 export default function App() {
   return (
